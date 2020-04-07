@@ -1,0 +1,8 @@
+{
+	"logs": [
+		{ "Name":"log1" , "Datestamp" : "2020-03-13 14h31" , "Level" : 3 , "Type" : "critical" , "Detail": "You have an exam !" },
+		{ "Name":"log3" , "Datestamp" : "2020-03-13 18h31" , "Level" : 2 , "Type" : "serious" , "Detail": "Thirst is coming" },
+		{ "Name":"log2" , "Datestamp" : "2020-02-13 20h00" , "Level" : 3 , "Type" : "critical" ,  "Detail": "Project crisis"},
+		{ "Name":"log8" , "Datestamp" : "2020-03-11 10h31" , "Level" : 1 , "Type" : "information" , "Detail": "it's morning"},
+			]
+}
